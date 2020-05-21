@@ -9,11 +9,11 @@ Expected output: 1
 ```
 
 ```
-Sample iput: [4, 1, 2, 1, 2]
+Sample input: [4, 1, 2, 1, 2]
 Expected output: 4
 ```
 
 Can you implement a solution that finds the single number in _one_ pass through the input array with `O(1)` space complexity?
 
 ## Testing
-Run the test file by executing `python test_single_number.py`. 
+Run the test file by executing `python test_single_number.py`.
